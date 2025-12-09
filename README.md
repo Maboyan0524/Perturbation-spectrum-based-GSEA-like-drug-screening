@@ -97,16 +97,6 @@ GENE3
 - Statistical summary (Total drugs, Analysis time, Max/Min Tau)
 - Visualization charts
 
-##  Dependencies
-
-```
-pandas>=1.3.0
-numpy>=1.21.0
-matplotlib>=3.4.0
-seaborn>=0.11.0
-scipy>=1.7.0
-```
-
 ##  Contact
 **Version**: v1.0  
 **Update Date**: 2025
