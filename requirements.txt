@@ -1,0 +1,16 @@
+# Targeted Drug Screening System - Dependencies
+# Python 3.7+
+
+# Data processing
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Scientific computing
+scipy>=1.7.0
+
+# Note: tkinter is included in standard Python distribution
+# If tkinter is not available, install python3-tk (Linux) or reinstall Python with Tcl/Tk support
